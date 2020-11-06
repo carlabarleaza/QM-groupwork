@@ -1,6 +1,6 @@
 # QM2-Groupwork 
 
-##What makes a video trendy or viral? A study into the features of and factors behind such phenomenon.  
+*What makes a video trendy or viral? A study into the features of and factors behind such phenomenon*  
 
 Team Members: Georges Linel, Elisa Valentin, Philippine Coutau, Carla Barleaza, Jorge Perez 
  
