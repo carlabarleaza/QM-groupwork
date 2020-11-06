@@ -1,4 +1,6 @@
-# QM-groupwork
+# QM2-Groupwork 
+
+Our assigned roles:
 
 Carla → moderating the Github, create a bibliography page 
 
