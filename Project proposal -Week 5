@@ -1,0 +1,54 @@
+Draft of our project proposal 
+Group Name: Paper-clippers   
+
+Group Number: 11 
+
+Project Title:
+What makes a video trendy or viral? A study into the features of and factors behind such phenomenon.  
+
+Team Members: Georges Linel, Elisa Valentin, Philippine Coutau, Carla Barleaza, Jorge Perez 
+ 
+Context and motivation 
+YouTube is one of the most successful platforms for visual entertainment ever. With no requirements for uploading, there are thousands of videos uploaded every day surrounding thousands of different themes. Because of this, the phenomenon of viral videos arose with certain uploads reaching millions of views in a matter of minutes.  Though one would expect trending to go hand in hand with viral, it has been found that the trending page doesn’t always show the viral videos. Therefore, we thought it would be interesting to investigate viral videos as well as trending videos in both the rise of internet and YouTube between 2006-2011 as well as more recently 2017-2018.  
+
+We are looking to explore the video preferences of different audiences across countries (depending on the full extent of database availability), as well as the potential factors that make a video trending or viral. We will also look at the evolution of YouTube videos viewing habits depending on internet availability.  
+
+Available Datasets 
+https://www.kaggle.com/datasnaek/youtube-new  
+
+^ This is a data set that follows the YouTube videos on the trending page for 2017-2018 for 10 countries (Brazil, Denmark, France, Great Britain, japan, India, Korea, Russia, Canada and Mexico)  
+
+https://sites.google.com/site/cmuviralvideos/download 
+
+^ Dataset from Carnegie Mellon following viral videos from 2006- 2011. This will be used to see how the topic of viral videos changes as internet and YouTube availability changes. 
+
+https://ourworldindata.org/internet#:~:text=Globally%20the%20number%20of%20internet,from%20each%20country%20are%20online%3F 
+
+^ Dataset regarding internet availability from 1990 to 2017.  
+
+Methods for analysing and presenting the data  
+We will focus at first on the features of top trending and viral videos by doing a statistical analysis, looking at how views, likes, comments, number of trending days may correlate with each other using plots and graphs (i.e., plotting like to dislike ratio with number of views).  
+
+Plot internet availability with categories linked to viral videos over the years.  
+
+Some other methods of analysis would include:  
+
+Looking at the most used words in trending titles,  
+
+Sentiment analysis of the comments. 
+
+A successful project should do the following: 
+
+Give an accurate insight as to what determines a trending video on YouTube 
+
+Represent the characteristics of a long-term successful YouTube channel 
+
+Find a relationship (if there is one) with the rise in internet availability around the world as well as preferred topics amongst YouTubes userbase 
+
+Highlight differences in viewing preferences, such as genre of YouTube video likely to be trending in different countries. 
+
+ 
+
+ 
+
+ 
