@@ -1,0 +1,26 @@
+Correlation heatmap:
+
+Correlation heatmap = is a table showing correlation coefficients between variables. Each cell in the table shows the correlation between two variables
+Coefficient values can range from +1 to -1, where +1 indicates a perfect positive relationship, -1 indicates a perfect negative relationship, and a 0 indicates no relationship exists..
+Correlation vs causation not the same thing 
+
+Correlation between Views/likes and comments:
+
+Correlation between views and likes. How many views do our trending/viral videos have? Do most of them have a large number of views? Is having a large number of views required for a video to become trending/viral?
+The same questions above, but applied to likes and comment count instead of views.
+
+Correlation between the length of the video and the number of views(likes or comments)
+
+The daily percent of social views as a function of the number of days since the video was uploaded
+Are the lengths related to the video becoming trendy?
+
+Correlation between the length of title videos and views(likes or comments)?
+
+What is the most used word in the title of trending & viral videos
+How many trending videos contain a fully-capitalized word in their titles?
+What are the lengths of trending video titles?
+
+Correlation between the views (or likes/comments) and the time trending/viral videos were published?
+
+On which days of the week were the trending/viral videos posted 
+At which times of the day were the trending/viral videos published?
