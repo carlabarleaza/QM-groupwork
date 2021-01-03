@@ -13,15 +13,16 @@ Datasets
 https://www.kaggle.com/datasnaek/youtube-new  
 
 Our assigned roles:
+* These roles have been changed through the project 
 
-Carla → moderating the Github, create a bibliography page 
+Carla → Data visualisations, Research and Literature review, Analysis
 
-Jorge → Programming 
+Jorge → Programming, Website moderation and editor, Analysis
 
-Georges → Set up the website, programming
+Georges → Programming and data visualisations, Analysis
 
-Elisa → Editor 
+Elisa → Editor, Programming, Research, Analysis
 
-Philippine → Graphic Design 
+Philippine → Graphic Design, Research, Literature review, Analysis
 
 We will all do the Data analysis, writing and decide on data visualisations together
